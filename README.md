@@ -9,6 +9,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > git clone https://github.com/eryoher/todoFront.git
 > cd todoFront
 > npm install
-> update PATH_SITE in the file todoFront/src/constants/globals.js
+> update PATH_SITE (api url) in the file todoFront/src/constants/globals.js
 > npm run start
 ```
