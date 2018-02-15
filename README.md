@@ -6,8 +6,9 @@ This mini application is for the creation of a list of items
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/eryoher/todoApi.git
-> cd todoApi
+> git clone https://github.com/eryoher/todoFront.git
+> cd todoFront
 > npm install
+> update PATH_SITE in the file todoFront/src/constants/globals.js
 > npm run start
 ```
